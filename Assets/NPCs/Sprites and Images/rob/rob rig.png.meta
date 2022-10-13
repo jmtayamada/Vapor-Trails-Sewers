@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: aa3e5a62190543d4a83b19b2be1d4aca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 533957450137020726
+    second: NPC_head
+  - first:
+      213: 339151291231659108
+    second: NPC_torso
+  - first:
+      213: -4320198415861308126
+    second: NPC_nearbicep
+  - first:
+      213: 1509879506637078435
+    second: NPC_nearforearm
+  - first:
+      213: 863546620675426985
+    second: NPC_nearhand
+  - first:
+      213: 9056430844349446445
+    second: NPC_farbicep
+  - first:
+      213: -8320766852171236458
+    second: NPC_farforearm
+  - first:
+      213: 1770206562840952308
+    second: NPC_farhand
+  - first:
+      213: -8111206960518359625
+    second: NPC_hips
+  - first:
+      213: 2873011697217526154
+    second: NPC_nearthigh
+  - first:
+      213: 5240229917637109251
+    second: NPC_farthigh
+  - first:
+      213: 4945447319323413353
+    second: NPC_farcalf
+  - first:
+      213: 3692884814046654914
+    second: NPC_nearcalf
+  - first:
+      213: -3289315837233442365
+    second: NPC_nearfoot
+  - first:
+      213: 3403878144310133800
+    second: NPC_farfoot
+  - first:
+      213: 7394550436290993909
+    second: rob rig_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_head
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 103
+        width: 19
+        height: 14
+      alignment: 9
+      pivot: {x: 0.375, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4132b96dce83ad34cb1f4f3afa1292ff
+      internalID: 533957450137020726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_torso
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 76
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d57f763b932d34aa20a3c98f6b5dea
+      internalID: 339151291231659108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_nearbicep
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 6
+        height: 13
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.84615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5309fb7fe8110c84c97d629961138587
+      internalID: -4320198415861308126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_nearforearm
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 64
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.90000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f198f4b3e669904a8d399dc0f219108
+      internalID: 1509879506637078435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_nearhand
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 57
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f70662f8b2b7de44b77466a5b92a38c
+      internalID: 863546620675426985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_farbicep
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 79
+        width: 6
+        height: 13
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.84615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ccb83f0cfa9a245b6b314d1075e059
+      internalID: 9056430844349446445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_farforearm
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.90000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08522fcb9cbd5c84d81c67af4311ce15
+      internalID: -8320766852171236458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_farhand
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 57
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8011298c28ba7048aa75396d22c9344
+      internalID: 1770206562840952308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_hips
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 64
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53bcbe984a929741a7f15f5213485de
+      internalID: -8111206960518359625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_nearthigh
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 42
+        width: 6
+        height: 16
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8e71d370b6bdc46884942ae9fa5a49
+      internalID: 2873011697217526154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_farthigh
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 42
+        width: 7
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f0db828c4f9934dbb79531e42c1511
+      internalID: 5240229917637109251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_farcalf
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 23
+        width: 5
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4, y: 0.9333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900fc19c5a5bef0429ec8565df4c337f
+      internalID: 4945447319323413353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_nearcalf
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 23
+        width: 5
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4, y: 0.9333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb44935c6c234f4a937d8ef5f13cbb8
+      internalID: 3692884814046654914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_nearfoot
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: 0.14285715, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193da4103155aa64db0aeb9403170407
+      internalID: -3289315837233442365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_farfoot
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: 0.14285715, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b5a0fc54cb0a4aa33f1df991c3909
+      internalID: 3403878144310133800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rob rig_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 21
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaec23351f32be409605174757b6694
+      internalID: 7394550436290993909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 867a41a9651f10848b1dc5b558d9067f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

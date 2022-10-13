@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 92cdd92124cdefd4ca3301c8e15c328f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: lauren-atlas_0
+  - first:
+      213: 21300002
+    second: player-atlas_1
+  - first:
+      213: 21300004
+    second: player-atlas_2
+  - first:
+      213: 21300006
+    second: lauren-atlas_3
+  - first:
+      213: 21300008
+    second: lauren-atlas_4
+  - first:
+      213: 21300010
+    second: lauren-atlas_5
+  - first:
+      213: 21300012
+    second: lauren-atlas_6
+  - first:
+      213: 21300014
+    second: lauren-atlas_7
+  - first:
+      213: 21300016
+    second: lauren-atlas_8
+  - first:
+      213: 21300018
+    second: lauren-atlas_9
+  - first:
+      213: 21300020
+    second: lauren-atlas_10
+  - first:
+      213: 21300022
+    second: lauren-atlas_11
+  - first:
+      213: 21300024
+    second: player-atlas_12
+  - first:
+      213: 21300026
+    second: lauren-atlas_13
+  - first:
+      213: 21300028
+    second: lauren-atlas_14
+  - first:
+      213: 21300030
+    second: lauren-atlas_16
+  - first:
+      213: 21300032
+    second: lauren-atlas_17
+  - first:
+      213: 21300034
+    second: player-atlas_15
+  - first:
+      213: 21300036
+    second: player-atlas_18
+  - first:
+      213: 21300038
+    second: lauren-atlas_19
+  - first:
+      213: 21300040
+    second: lauren-atlas_20
+  - first:
+      213: 21300042
+    second: player-atlas_21
+  - first:
+      213: 21300044
+    second: player-atlas_22
+  - first:
+      213: 21300046
+    second: lauren_atlas_0
+  - first:
+      213: 21300048
+    second: lauren_atlas_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lauren-atlas_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 114
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73c43fe07322b94580c32fa1c6c35fe
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 82
+        width: 7
+        height: 15
+      alignment: 9
+      pivot: {x: 0.8571429, y: 0.8000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851911860983c9e4382645b5c8a9f0b4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 79
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54e3cd954b39249bf051e5e8438a21
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 82
+        width: 6
+        height: 15
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.8000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf21728fe2b17a44bfca1ed2842df6f
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249fc1723eb7004e96dc2f05775a3c9
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 67
+        width: 5
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4, y: 0.90909094}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c068cf596434ed43a4153438d906953
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 46
+        width: 9
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d7d97f1f7d7bb499ecef3ef2d8cfc5
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 67
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4820e4a1ba16c2a459d954c1dd5ebe20
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 46
+        width: 8
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1daaa6ebd75d914aa5ae0b04f56015b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.2, y: 0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e63dde5e736844862c6a2bb945949
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 27
+        width: 7
+        height: 15
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.86666673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c4b4219093f244a304212f06d0207
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 27
+        width: 7
+        height: 15
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.86666673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9bd7fd49937af4e84cd0257a0be91f
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 19
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.875, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039295e0d625c8246a1b84851d0243e6
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 19
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: 0.8571429, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff62ce8153159040907725d9137acb0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 61
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ebe988fe09aa14caba21e6579744db
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren-atlas_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 61
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeb14951722bec45ad41710a232bf5d
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 48
+        height: 5
+      alignment: 9
+      pivot: {x: 0.1875, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df240c92e84403042a5ea53b31ff174a
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 49
+        width: 39
+        height: 6
+      alignment: 9
+      pivot: {x: 0.35897437, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d2df5aa864a7048b06e947f6ec1707
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0890c764abaecc04b849de92c2e8f6a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TerminalAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cb51877284ea6f44191f9d60195ebc28, type: 3}
+    totalSpriteSurfaceArea: 147456
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9d4196424321f454ca67c464803bea23, type: 3}
+  - {fileID: 2878892458354067700, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: -2091331090133311471, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: 2097185004590296306, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: 1404776690685034939, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: -6933811683998046358, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: 8279847826438315925, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: -6549731553123063514, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: -4648041571663109569, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: -5033694301209056554, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: -3970328678496699446, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: 2815711493040492932, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: 1731075025651101237, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: 9213446573939670926, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: -7003387559858177649, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: -6273949111641647219, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: 1553259859729002046, guid: a7532445a121398419f31dd0c87c1030, type: 3}
+  - {fileID: 9106201651979360534, guid: 3f6206d5db9c6ef42b5ff552e2a43c52, type: 3}
+  - {fileID: 2303850698394803036, guid: 3f6206d5db9c6ef42b5ff552e2a43c52, type: 3}
+  - {fileID: 648013770810665981, guid: 3f6206d5db9c6ef42b5ff552e2a43c52, type: 3}
+  - {fileID: 7821309337114805486, guid: 3f6206d5db9c6ef42b5ff552e2a43c52, type: 3}
+  - {fileID: 8237026203665004678, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: 4180949186752633064, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: 1825253176685760951, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: 7652591825303635611, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: -3432551853379556844, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: 7039514788985486753, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: 3454646493414295870, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: -3888548000781285918, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: -5131906810471608907, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: -4111039158910638773, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: -4995444382640050911, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  - {fileID: -4886697254949461800, guid: a79cfe1ea5add35458ef492bdb72970c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - highwayStreetlight
+  - highwayTerminalBlock_8
+  - highwayTerminalBlock_9
+  - highwayTerminalBlock_6
+  - highwayTerminalBlock_7
+  - highwayTerminalBlock_4
+  - highwayTerminalBlock_5
+  - highwayTerminalBlock_2
+  - highwayTerminalBlock_3
+  - highwayTerminalBlock_0
+  - highwayTerminalBlock_1
+  - highwayTerminalBlock_15
+  - highwayTerminalBlock_14
+  - highwayTerminalBlock_11
+  - highwayTerminalBlock_10
+  - highwayTerminalBlock_13
+  - highwayTerminalBlock_12
+  - guardrail_3
+  - guardrail_2
+  - guardrail_1
+  - guardrail_0
+  - bridgeSupports_9
+  - bridgeSupports_8
+  - bridgeSupports_1
+  - bridgeSupports_0
+  - bridgeSupports_3
+  - bridgeSupports_2
+  - bridgeSupports_5
+  - bridgeSupports_4
+  - bridgeSupports_7
+  - bridgeSupports_6
+  - bridgeSupports_10
+  - bridgeSupports_11
+  m_Tag: TerminalAtlas
+  m_IsVariant: 0

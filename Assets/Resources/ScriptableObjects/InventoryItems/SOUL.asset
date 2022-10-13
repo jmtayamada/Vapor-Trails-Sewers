@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bd3abaef4b0e4f33be0b7869e667c20, type: 3}
+  m_Name: SOUL
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 2742d25f3177b344c966e630e58ba4e2, type: 3}
+  detailedIcon: {fileID: 21300000, guid: 6a27d2b0353d3cd4e8518c47618f4e18, type: 3}
+  stackable: 0
+  cost: 0
+  type: 00000000
+  description: Lauren's last gift. Impossibly sharp, the tip of the surface to orbit
+    uniform lance glitters in the dark.
+  gameStates: []
+  ability: 0
+  instructions: Use it on Andromeda.

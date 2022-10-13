@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerHurtbox
+  - EnemyHitbox
+  - EnemyHurtbox
+  - PlayerHitbox
+  - EnviroDamage
+  - AnimationArm
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Triggers
+  - HitHurtboxes
+  - EnemyColliders
+  - Pickups
+  - Projectiles
+  - Interactables
+  - Breakables
+  - Sprite Masks
+  - Minimap
+  - Editor UI
+  - PlayerParticles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3750879557
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1545236751
+    locked: 0
+  - name: Foreground
+    uniqueID: 1216648525
+    locked: 0
+  - name: Overlay
+    uniqueID: 2313160047
+    locked: 0

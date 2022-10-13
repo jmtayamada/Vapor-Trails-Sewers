@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bd3abaef4b0e4f33be0b7869e667c20, type: 3}
+  m_Name: Autonav
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: cbc757f311a1e1f499570ba968029843, type: 3}
+  detailedIcon: {fileID: 21300000, guid: 451f6cd5fe053eb4f9622ecaf76fc56c, type: 3}
+  stackable: 0
+  count: 1
+  cost: 0
+  type: 00000000
+  description: Sensor package for deep construction. Maps out visible areas and stores
+    metadata.
+  gameStates: []
+  itemEffects: []
+  ability: 9
+  instructions: 'Press (TAB|BACK|SHARE) to view the area map
+
+
+    <color=magenta>PASSIVE
+    ABILITY</color>'
